@@ -1,4 +1,5 @@
-import React from 'react';
+// import React from 'react';
+import ReReact from './lib/rereact';
 import logo from './logo.svg';
 import './App.css';
 
